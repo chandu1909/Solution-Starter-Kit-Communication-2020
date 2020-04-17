@@ -1,5 +1,5 @@
 applications:
-- name: covid-assistant-simple
+- name: covid-assistant-Nemo-test
   command: npm start
   path: .
   memory: 256M
